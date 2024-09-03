@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="./github-header-image.png" alt="Header">
+</div>
+
 ## 👋 About Me
 Hi there! I'm Diego, a computer science student with a passion for AI. I'm experienced in Python and eager to keep learning about deep learning and NLP. My interests lie in creating innovative AI solutions that can solve real-world problems and improve people's lives. Whether it's building intelligent systems from scratch or fine-tuning existing models, I am always excited to explore new ideas and push the boundaries of what AI can achieve.
 
