@@ -21,7 +21,7 @@ Hi there! My name is Diego and I'm a computer science student with a passion for
 <br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=diegovelilla&show_icons=true&hide_title=false&theme=radical&rank_icon=github&hide_border=true" alt="GitHub Profile Stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegovelilla&theme=radical&card_width=437&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegovelilla&theme=radical&card_width=467&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 
