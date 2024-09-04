@@ -20,9 +20,7 @@ Hi there! My name is Diego and I'm a computer science student with a passion for
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovelilla&layout=compact&theme=radical&hide_border=true&card_width=300" alt="Most Used Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=diegovelilla&show_icons=true&hide_title=false&theme=radical&include_all_commits=true&rank_icon=github&hide_border=true" alt="GitHub Profile Stats" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegovelilla&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
