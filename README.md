@@ -26,6 +26,27 @@ Hi there! My name is Diego and I'm a computer science student with a passion for
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=diegovelilla&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegovelilla&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+
+  <br><br>
+
+  <!-- GitHub Profile Stats with Basic Details -->
+  <img src="https://github-readme-stats.vercel.app/api?username=diegovelilla&show_icons=true&hide_title=false&theme=radical&hide_border=true" alt="GitHub Profile Stats" />
+
+  <br><br>
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegovelilla&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+
+</div>
+
+
 <h2 align="center">📫 Contact Me 📫</h2>
 <div align="center"> 
   <a href="mailto:diegovelillarecio@gmail.com">
