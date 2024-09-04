@@ -20,7 +20,7 @@ Hi there! My name is Diego and I'm a computer science student with a passion for
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=diegovelilla&show_icons=true&card_width=400&hide_title=false&theme=radical&include_all_commits=true&rank_icon=github&hide_border=true" alt="GitHub Profile Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=diegovelilla&show_icons=true&hide_title=false&theme=radical&include_all_commits=true&rank_icon=github&hide_border=true" alt="GitHub Profile Stats" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diegovelilla&theme=radical&card_width=437&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
@@ -30,7 +30,7 @@ Hi there! My name is Diego and I'm a computer science student with a passion for
   <a href="mailto:diegovelillarecio@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a><br>
-  <a href="https://linkedin.com/in/deigo-velilla-recio" target="_blank">
+  <a href="https://linkedin.com/in/diego-velilla-recio" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
