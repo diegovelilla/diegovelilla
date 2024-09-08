@@ -5,6 +5,10 @@ Hi there! My name is Diego and I'm a computer science student with a passion for
 
 <h2 align="center">🌟 Featured Projects 🌟</h2>
 
+- [**Reddit-Omni**](https://github.com/diegovelilla/reddit-omni): AI-powered Reddit bot that automatizes question-answering.
+
+- [**Reddit-Nemesis**](https://github.com/diegovelilla/reddit-nemesis): Antagonizing Reddit-Omni, AI-powered Reddit bot that automatizes rage-baiting.
+
 - [**FreeThinker**](https://github.com/diegovelilla/FreeThinker): No-cost-per-token AI agent built with Python and Llama 3.1 70B model.
 
 - [**EssAI**](https://github.com/diegovelilla/EssAI): Fine-tuned LLM to detect AI-generated essays. Built with Python and Google's Bert base model.
