@@ -5,15 +5,17 @@ Hi there! My name is Diego and I'm a computer science student with a passion for
 
 <h2 align="center">🌟 Featured Projects 🌟</h2>
 
-- [**Reddit-Omni**](https://github.com/diegovelilla/reddit-omni): AI-powered Reddit bot that automatizes question-answering.
+- ✏️ [**AutoREADME**](https://github.com/diegovelilla/AutoREADME): Fully automatized README generation for any GitHub repository leveraging AI.
 
-- [**Reddit-Nemesis**](https://github.com/diegovelilla/reddit-nemesis): Antagonizing Reddit-Omni, AI-powered Reddit bot that automatizes rage-baiting.
+- 👼 [**Reddit-Omni**](https://github.com/diegovelilla/reddit-omni): AI-powered Reddit bot that automatizes question-answering.
 
-- [**FreeThinker**](https://github.com/diegovelilla/FreeThinker): No-cost-per-token AI agent built with Python and Llama 3.1 70B model.
+- 😈 [**Reddit-Nemesis**](https://github.com/diegovelilla/reddit-nemesis): Antagonizing Reddit-Omni, AI-powered Reddit bot that automatizes rage-baiting.
 
-- [**EssAI**](https://github.com/diegovelilla/EssAI): Fine-tuned LLM to detect AI-generated essays. Built with Python and Google's Bert base model.
+- 🤖 [**FreeThinker**](https://github.com/diegovelilla/FreeThinker): No-cost-per-token AI agent built with Python and Llama 3.1 70B model.
 
-- [**Stroke-o-Scope**](https://github.com/diegovelilla/Stroke-o-Scope): Deep neural network built from scratch using PyTorch to detect early signs of stroke predisposition.
+- 📚 [**EssAI**](https://github.com/diegovelilla/EssAI): Fine-tuned LLM to detect AI-generated essays. Built with Python and Google's Bert base model.
+
+- ❤️ [**Stroke-o-Scope**](https://github.com/diegovelilla/Stroke-o-Scope): Deep neural network built from scratch using PyTorch to detect early signs of stroke predisposition.
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br/>
 <div align="center">
