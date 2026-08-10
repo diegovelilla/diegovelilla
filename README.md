@@ -1,29 +1,31 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
 </h1>
-Hi there! My name is Diego and I'm a computer science student with a passion for AI. I'm experienced in Python and eager to keep learning about deep learning and NLP. My interests lie in creating innovative AI solutions that can solve real-world problems and improve people's lives. Whether it's building intelligent systems from scratch or fine-tuning existing models, I am always excited to explore new ideas and push the boundaries of what AI can achieve.
 
-<h2 align="center">🌟 Featured Projects 🌟</h2>
+Hi, my name is Diego and I am a Machine Learning Engineer specializing in Natural Language Processing. I hold a BSc in Computer Science and an MSc in Data Science from UPC, in Spain, and I've worked both in industry, building applied AI solutions, and in academia, doing research. To see what I've built and what I'm currently learning, visit [my personal page](https://diegovelilla.github.io/).
 
-- ✏️ [**AutoREADME**](https://github.com/diegovelilla/AutoREADME): Fully automatized README generation for any GitHub repository leveraging AI.
+<h2 align="center">Projects</h2>
 
-- 👼 [**Reddit-Omni**](https://github.com/diegovelilla/reddit-omni): AI-powered Reddit bot that automatizes question-answering.
+**[GGUF Support for hf-mem](https://github.com/alvarobartt/hf-mem/pull/25)**
+Added native GGUF support to [hf-mem](https://github.com/alvarobartt/hf-mem), a CLI that estimates VRAM requirements for Hugging Face models. Built a GGUF binary metadata parser following the original GGML implementation, model and KV-cache memory estimators, async metadata fetching, and support for sharded GGUF models. Became the 2nd highest contributor to the repository.
 
-- 😈 [**Reddit-Nemesis**](https://github.com/diegovelilla/reddit-nemesis): Antagonizing Reddit-Omni, AI-powered Reddit bot that automatizes rage-baiting.
+**[Multimodal RAG & Fine-Tuning Platform](https://github.com/diegovelilla/Multimodal-DataOps-Platform)**
+Built a Dockerized ETL pipeline with ChromaDB supporting multimodal similarity search and RAG. Applied parameter-efficient fine-tuning (LoRA, QLoRA, quantization) to cut VRAM usage by 90%, enabling training and deployment on limited hardware.
 
-- 🤖 [**FreeThinker**](https://github.com/diegovelilla/FreeThinker): No-cost-per-token AI agent built with Python and Llama 3.1 70B model.
+**[AutoREADME](https://github.com/diegovelilla/AutoREADME)**
+CLI tool that generates complete, structured READMEs for any GitHub repository by analyzing its codebase with an LLM, removing the need to write documentation by hand.
 
-- 📚 [**EssAI**](https://github.com/diegovelilla/EssAI): Fine-tuned LLM to detect AI-generated essays. Built with Python and Google's Bert base model.
+**[EssAI](https://github.com/diegovelilla/EssAI)**
+Fine-tuned a BERT-base model to classify AI-generated vs. human-written essays.
 
-- ❤️ [**Stroke-o-Scope**](https://github.com/diegovelilla/Stroke-o-Scope): Deep neural network built from scratch using PyTorch to detect early signs of stroke predisposition.
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2><br/>
+<h2 align="center">Languages-Frameworks-Tools</h2><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,java" /><br>
     <img src="https://skillicons.dev/icons?i=mysql,r,git,github" /><br>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Stats</h2>
 <br>
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=diegovelilla&show_icons=true&hide_title=false&theme=radical&rank_icon=github&hide_border=true" alt="GitHub Profile Stats" /><br>
@@ -31,7 +33,7 @@ Hi there! My name is Diego and I'm a computer science student with a passion for
 </div>
 
 
-<h2 align="center">📫 Contact Me 📫</h2>
+<h2 align="center">Contact Me</h2>
 <div align="center"> 
   <a href="mailto:diegovelillarecio@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
